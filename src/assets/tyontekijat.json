@@ -1,0 +1,28 @@
+{
+  "tyontekijat": [
+    {
+      "firstName": "Mauno",
+      "lastName": "Ahonen",
+      "address": "...",
+      "phoneNumber": "(697) 436-9161"
+    },
+    {
+      "firstName": "Matti",
+      "lastName": "Näsä",
+      "address": "...",
+      "phoneNumber": "(697) 436-9161"
+    },
+    {
+      "firstName": "Raimo",
+      "lastName": "Vormisto",
+      "address": "...",
+      "phoneNumber": "(697) 436-9161"
+    },
+    {
+      "firstName": "Timo",
+      "lastName": "Silakka",
+      "address": "...",
+      "phoneNumber": "(697) 436-9161"
+    }
+  ]
+}
